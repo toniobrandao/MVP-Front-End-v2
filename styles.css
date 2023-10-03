@@ -223,7 +223,7 @@ input[type="checkbox"]:not(:checked) {
 
 /* Ocultar a barra de rolagem no Microsoft Edge (baseado em Chromium) */
 *::-webkit-scrollbar {
-  width: 0.5em;
+  width: 0.7em;
 }
 
 *::-webkit-scrollbar-thumb {
